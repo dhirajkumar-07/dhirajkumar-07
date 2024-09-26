@@ -1,4 +1,5 @@
-- Hi 👋, I’m dhirajkumar
+Hi 👋, I’m dhirajkumar
+
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning java
 
